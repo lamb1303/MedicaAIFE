@@ -22,7 +22,7 @@
     "@material-ui/icons": "^4.11.2",
     "aos": "^2.3.4",
     "axios": "^0.21.1",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.3.3",
     "clsx": "^1.1.1",
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.6",
